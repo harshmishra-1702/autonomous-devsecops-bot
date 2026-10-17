@@ -1,0 +1,12 @@
+# Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables & secrets
+.env
+
+# CrewAI local storage/traces
+output/
+.crewai/
+
