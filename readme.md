@@ -1,6 +1,6 @@
 # Autonomous DevSecOps Code Review & Self-Healing Bot
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://YOUR_STREAMLIT_APP_URL)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red)](https://autonomous-devsecops-bot.streamlit.app/)
 
 An event-driven, self-healing code review and refactoring pipeline built using **CrewAI Flows**, **CrewAI Custom Tools**, **Pydantic Data Contracts**, and high-speed **Groq LLM inference**. 
 
@@ -47,7 +47,7 @@ code_review_bot/
 
 ### 🌐 Live Web Application
 You can test the agentic pipeline directly in your browser without installing anything locally:
-**[Launch the DevSecOps Bot](https://YOUR_STREAMLIT_APP_URL)**
+**[Launch the DevSecOps Bot](https://autonomous-devsecops-bot.streamlit.app/)**
 
 ### 💻 Run Locally (For Developers)
 
